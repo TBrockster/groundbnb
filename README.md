@@ -1,6 +1,6 @@
 # ground-bnb-rails
 
-A clone of air-bnb, built in Rails.
+A clone of air-bnb, built in Rails. test.
 
 Initial Installation
 --------------------
